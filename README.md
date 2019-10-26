@@ -21,8 +21,8 @@ ___
 ___
 ## Compiler Explorer - surprising optimization bugs and undefined behavior in C++ - 20191025
 ### Discussion Points
-- 
-- 
+- Web app can decompile and show flow diagrams
+
 ### Links
 - [GodBolt](https://godbolt.org/)
-- 
+- [Link to presentation](https://docs.google.com/presentation/d/1Po9820xsBw6P_aZTNxFt8U4qjVOJIL_Y0Mo8WVyKoQw/edit?usp=sharing)
