@@ -18,3 +18,11 @@ ___
 - [Binary Ninja](https://binary.ninja/purchase/)
   - Don't know the tool
   - Not worth the cost and ramp up time for a single CTF
+___
+## Compiler Explorer - surprising optimization bugs and undefined behavior in C++ - 20191025
+### Discussion Points
+- 
+- 
+### Links
+- [GodBolt](https://godbolt.org/)
+- 
