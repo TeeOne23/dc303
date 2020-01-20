@@ -26,3 +26,6 @@ ___
 ### Links
 - [GodBolt](https://godbolt.org/)
 - [Link to presentation](https://docs.google.com/presentation/d/1Po9820xsBw6P_aZTNxFt8U4qjVOJIL_Y0Mo8WVyKoQw/edit?usp=sharing)
+___
+## Hands-on with Exploit Education (Phoenix) - 20200124
+- [Direct Link to Phoenix](https://exploit.education/phoenix/)
